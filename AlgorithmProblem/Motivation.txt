@@ -1,2 +1,3 @@
 Here i keep my all algorithm related problem solving idea and code also.
 And as well as i will try to write various online judges problem solun and their soln idea and realistic figure.
+updates
